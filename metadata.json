@@ -1,0 +1,5 @@
+{
+  "name": "AI Outfit Stylist",
+  "description": "Generate realistic outfit images by combining items from your uploaded wardrobe collection. Select items, define your style, and let AI create personalized outfit ideas for you.",
+  "requestFramePermissions": []
+}
